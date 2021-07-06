@@ -1,6 +1,6 @@
-# flutter_app
+# Picture Invitation
 
-A new Flutter application.
+It is a simple application made to understand the logic of adding images.
 
 ## Getting Started
 
