@@ -1,6 +1,6 @@
-# firma_bilgileri_uygulamasi
+# Column Row Container
 
-Firma bilgilerinin gösterildiği mini bir uygulamadır.
+It is a simple application to understand the logic of Column and Row Container.
 
 ## Getting Started
 
